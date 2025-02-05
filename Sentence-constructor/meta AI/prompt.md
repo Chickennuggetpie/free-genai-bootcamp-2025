@@ -91,5 +91,54 @@ The student should also consider the appropriate use of personal pronouns "你" 
 Good luck with the transcription!
  </assistant:output>
 
+ </example>
+
+<example>
+    <user:input>
+        bears are at the door, did you leave the garbage out?
+    </user:input>
+    <score>9</score>
+    <score reasons> 
+    - Good : All Pinyin is correct, with pronunciation quirks locked down 
+    - Good : Chinese grammar sentence structure guiding questions 
+    - Good: End off sentence with (ma) participle 
+    </score reasons>
+    <assistant:output>
+
+Sure, I'd be happy to help guide the student through this exercise. Here's a table of relevant vocabulary in randomized order:
+
+| English | Chinese  | Pinyin |
+|---------|----------|--------|
+| bears   |    熊    |  xióng |
+| at      |    在    |  zài   |
+| door    |    门    |   mén  |
+| you     |    你    |   nǐ   |
+| leave   |   离开   |  líkāi |
+| out     |   外面   | wàimiàn |
+| garbage |   垃圾   |   lèsè |
+| did     |    了    |   le  |
+| you     |    你    |   nǐ   |
+
+To transcribe the sentence "Bears are at the door, did you leave the garbage out?" into Chinese, the student should consider the following clues:
+
+1. **Identify the subject:** "Bears"
+2. **Identify the location:** "at the door"
+3. **Identify the action:** "leave the garbage out"
+4. **Add the question:** "did you..."
+
+The student should then use the provided vocabulary to construct the sentence, paying attention to the correct particles and conjugation.
+
+Here's a hint for the student:
+
+- The sentence structure in Chinese is typically Subject-Verb-Object (SVO), but in this case, the student needs to form a question.
+- The particle "在" (zài) is used to indicate location.
+- The verb "离开" (líkāi) is in the past tense, indicated by the particle "了" (le).
+- The student should also consider the appropriate use of personal pronouns "你" (nǐ) and the question particle "吗" (ma) to form the question.
+
+Good luck with the transcription!
+ </assistant:output>
+
+ </example>
+
 ## Student Input: 
 Bears are at the door, did you leave the garbage out?
